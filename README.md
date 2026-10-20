@@ -5,7 +5,7 @@
 **Instructor:** Prathmesh Sir  
 **Institute:** IMCC, Pune  
 **Technology:** Python  
-**Focus:** Backend Development Fundamentals
+**Focus:** Backend Development Fundamentals & API Design
 
 ---
 
@@ -13,7 +13,7 @@
 
 This repository contains my learning notes, Python programs, practical exercises, and assignments from the **Python Backend Basics Value Added Course at IMCC**, guided by Prathmesh Sir.
 
-The purpose of this repository is to build a strong foundation in Python programming and understand the basic concepts required for backend development.
+The purpose of this repository is to build a strong foundation in Python programming, understand core backend development principles, design backend logic, and learn how to test APIs using Postman.
 
 ## Learning Objectives
 
@@ -22,12 +22,15 @@ The purpose of this repository is to build a strong foundation in Python program
 - Practice functions, strings, lists, tuples, sets, and dictionaries.
 - Learn file handling and exception handling.
 - Understand modules, packages, and virtual environments.
-- Explore the fundamentals of backend development.
+- **Learn client-server architecture and core backend logic.**
+- **Understand HTTP methods (GET, POST, PUT, DELETE) and status codes.**
+- **Build and test RESTful APIs using Python.**
+- **Test, debug, and manage API requests and collections using Postman.**
 - Improve logical thinking through practical programming exercises.
 
 ## Topics Covered
 
-The following is a suggested structure for organizing course material. Update the checklist as you study each topic.
+Update the checklist as you study each topic:
 
 - [ ] Python Fundamentals
 - [ ] Variables, Data Types, and Operators
@@ -38,7 +41,9 @@ The following is a suggested structure for organizing course material. Update th
 - [ ] Exception Handling
 - [ ] Object-Oriented Programming
 - [ ] Virtual Environments and Packages
-- [ ] Python Backend Fundamentals
+- [ ] **Python Backend Fundamentals & Architecture**
+- [ ] **API Design & Request-Response Lifecycle**
+- [ ] **Postman: API Testing, Collections, and Environment Setup**
 - [ ] Practical Programs and Assignments
 
 ## Repository Structure
@@ -54,4 +59,7 @@ Python-Backend-Basics/
 ├── file_handling/
 ├── exception_handling/
 ├── oops/
-├── backend_bas
+├── virtual_environments/
+├── backend_basics/
+├── api_logic/
+└── postman_collections/
